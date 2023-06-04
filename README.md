@@ -46,7 +46,7 @@ Initially, my intuition was that longer prompts would lead to more detailed imag
 ## Detailed Results
 
 You can refer to the complete project details and the overall results at:
-[Medium Post(https://sahilsakhuja.medium.com/token-merging-for-fast-stable-diffusion-an-analysis-77cfbb474961)
+[Medium Post](https://sahilsakhuja.medium.com/token-merging-for-fast-stable-diffusion-an-analysis-77cfbb474961)
 
 
 ## Authors
